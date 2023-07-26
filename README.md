@@ -10,7 +10,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/spidermax89/My-Profile/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/spidermax89/My-Profile/raw/output/snake.svg" alt="Snake animation" />
 
 ###
 
