@@ -10,7 +10,10 @@
 
 ###
 
-<img src="https://github.com/spidermax89/Spidermax89/raw/output/github-snake-dark.svg" alt="Snake animation" />
+<a href="https://github.com/spidermax89">
+  <img src="https://github.com/spidermax89/Spidermax89/raw/output/github-snake-dark.svg" alt="Snake animation" />
+</a>
+
 
 ###
 
