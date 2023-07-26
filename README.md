@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <a><img src="https://github-readme-stats.vercel.app/api?username=Spidermax89&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spidermax89&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  /></a>
-  <a><img src="https://streak-stats.demolab.com?user=Spidermax89&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  /></a>
+  <a href="/"><img src="https://github-readme-stats.vercel.app/api?username=Spidermax89&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /></a>
+  <a href="/"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spidermax89&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  /></a>
+  <a href="/"><img src="https://streak-stats.demolab.com?user=Spidermax89&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  /></a>
 </div>
 
 ###
