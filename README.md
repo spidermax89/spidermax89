@@ -3,17 +3,8 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/spidermax89"><img src="https://github-readme-stats.vercel.app/api?username=Spidermax89&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /></a>
-  <a href="https://github.com/spidermax89"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spidermax89&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  /></a>
-  <a href="https://github.com/spidermax89"><img src="https://streak-stats.demolab.com?user=Spidermax89&locale=en&mode=weekly&theme=vue-dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  /></a>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Max_&api_domain=time.erlandev.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" />
 </div>
-
-###
-
-<a href="https://github.com/spidermax89">
-  <img src="https://github.com/spidermax89/Spidermax89/raw/output/github-snake-dark.svg" alt="Snake animation" />
-</a>
-
 
 ###
 
